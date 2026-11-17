@@ -1,8 +1,8 @@
-# 🪖 Toy Soldiers
+# 🪖 Static Frontline
 
-> **[🎮 Play the Live Game Here](https://explore.m-jayz.com/TS/)**
+> **[🎮 Play the Live Game Here](https://explore.m-jayz.com/static-frontline)**
 
-**Toy Soldiers** is a tactical, turn-based browser strategy game built with vanilla JavaScript, HTML5, and CSS. Command a diverse squad of miniature military units across procedurally generated battlefields, utilizing cover, action points (AP), and strategic positioning to defeat the enemy.
+**Static Frontline** is a tactical, turn-based browser strategy game built with vanilla JavaScript, HTML5, and CSS. Command a diverse squad of miniature military units across procedurally generated battlefields, utilizing cover, action points (AP), and strategic positioning to defeat the enemy.
 
 ---
 
