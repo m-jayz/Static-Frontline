@@ -31,7 +31,7 @@ You can also run the game on your local machine:
 1. Clone or download this repository.
 2. Open `index.html` directly in any modern web browser.
 
-> **Note on Sound Assets:** Audio files stream dynamically from the live hosted server (`https://explore.m-jayz.com/TS/`). An active internet connection is required for sound effects when playing a cloned local copy.
+> **Note on Sound Assets:** Audio files stream dynamically from the live hosted server (`https://explore.m-jayz.com/static-frontline`). An active internet connection is required for sound effects when playing a cloned local copy.
 
 ---
 
